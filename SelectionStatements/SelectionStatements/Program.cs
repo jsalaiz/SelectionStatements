@@ -6,6 +6,37 @@ namespace SelectionStatements
     {
         static void Main(string[] args)
         {
+
+            //FavSchoolSub();
+            //RanNumGame();
+        }
+
+        static void FavSchoolSub()
+        {
+            Console.WriteLine("Give me your favorite school subject");
+            var userInput = Console.ReadLine();
+            switch (userInput.ToLower())
+            {
+                case "math":
+                    Console.WriteLine("You like numbers");
+                    break;
+                case "science":
+                    Console.WriteLine("You like beakers");
+                    break;
+                case "english":
+                    Console.WriteLine("You like reading");
+                    break;
+                case "gym":
+                    Console.WriteLine("You like exercise");
+                    break;
+                default:
+                    Console.WriteLine("Your subject is not popular");
+                    break;
+            }
+        }
+
+        static void RanNumGame()
+        {
             var r = new Random();
             var favNumber = r.Next(1, 1000);
             int userInput;
@@ -25,7 +56,7 @@ namespace SelectionStatements
                 {
                     userInput -= 100;
                 } */
-                 
+
                 if (userInput < favNumber)
                 {
                     Console.WriteLine($"{userInput} is too low");
