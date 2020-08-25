@@ -25,7 +25,7 @@ namespace SelectionStatements
                 {
                     userInput -= 100;
                 } */
-
+                 
                 if (userInput < favNumber)
                 {
                     Console.WriteLine($"{userInput} is too low");
