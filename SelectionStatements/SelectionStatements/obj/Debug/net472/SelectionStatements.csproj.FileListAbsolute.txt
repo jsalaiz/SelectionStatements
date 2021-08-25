@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\net472\SelectionStatements.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\net472\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\net472\SelectionStatements.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\net472\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\SelectionStatements\SelectionStatements\SelectionStatements\bin\Debug\net472\SelectionStatements.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\SelectionStatements\SelectionStatements\SelectionStatements\bin\Debug\net472\SelectionStatements.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\SelectionStatements\SelectionStatements\SelectionStatements\bin\Debug\net472\SelectionStatements.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\net472\SelectionStatements.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\net472\SelectionStatements.pdb
